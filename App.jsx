@@ -4,6 +4,7 @@ import Home from './src/screens/Home';
 import Profile from './src/screens/Profile';
 import Contact from './src/screens/Contact';
 import { NavigationContainer } from '@react-navigation/native';
+import 'react-native-gesture-handler';
 
 const Drawer = createDrawerNavigator();
 
